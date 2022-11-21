@@ -1,0 +1,14 @@
+{
+  "name": "odi-website-scraper",
+  "version": "1.0.2",
+  "description": "scrape Knowledge & Opinion section of the ODI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Schofield <jackschofield1@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs-web-scraper": "^6.1.0"
+  }
+}
